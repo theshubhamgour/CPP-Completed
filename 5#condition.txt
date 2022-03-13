@@ -1,0 +1,26 @@
+* Condition: 
+                * if : Used to execute two statement
+                        for single condition.
+                * if-else
+                * nested if-else
+                * else-if ladder : used when we got multiple conditions
+                * switch statement: used when we want to select one case from
+                  multiple cases
+
+* looping:
+            * while: entry control loop
+            * do-while
+            * for 
+            * nested loop
+
+What is operator?
+operator is a symbol that is use to perform 
+mathematical and logical task.
+
+C++ operator: 
+ Arithmetic operator (+, -, * ,/ ,%)
+ relational operator (< , >, <= , >=, ==, !=)
+ logical operator (&&,||,!)
+ assignment operator (=, +=, ==, *=,/=)
+ ternary operator (? :)
+ bitwise operator (&, | , ^,~, <<,>>)
