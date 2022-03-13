@@ -1,0 +1,17 @@
+What is constant? 
+constant means fixed value, which does not change
+in run time
+
+Note: 
+        * const keyword is used to declare a constant
+        * constant can be of any datatype
+        * constant are also called literals
+        * we can change the value of constant witht the help 
+          of pointer
+
+*What is identifier?
+                identifier refers to a name used to idntify a variable,
+                function, class, module or any other user- defined item.
+
+
+Note: Keyword cant be used as a identifier name.

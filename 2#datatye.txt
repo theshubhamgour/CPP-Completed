@@ -1,0 +1,34 @@
+What is Datatype?
+                Datatype defines the type of value mean what 
+                kind of value the variable will store.
+
+C++ has three types of datatypes:
+    1. Basic datatype
+    2. Derived datatype
+    3. User- defined datatype
+
+ * Basic datatype:
+                    int ,float , char , double, bool, void
+
+ * Derived datatype: 
+                    array, function, pointer, reference
+
+ * User- defined datatype:
+                    Structure,, union, class, Enumeration
+
+
+*What is keyword?
+                Keyword is nothing but reserved word, whose
+                meaning already defined on the compiler.
+
+
+Note: 
+        * We Can't use keyword as a variable and constant
+        name.
+        * keyword must be in lower case
+
+What is variable?
+
+variable is the name of memory location where we 
+store value.
+
