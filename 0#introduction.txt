@@ -1,0 +1,14 @@
+What is C++?
+C++ is a high- level 'semi object oriented programming language
+developed by "Bjarne Stroust" in 1979 at bell lab
+
+Note:
+     C++ is a case sensitive language
+     Earlier C++ was known as C with classes
+     C++ is a portable programming language.
+
+SYNTAX:
+#include<iostream>
+{
+    //code;
+} 
