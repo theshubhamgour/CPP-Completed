@@ -1,0 +1,7 @@
+What is array?
+ Array is a derived datatype which is constructed by the help of primitive datatype
+ it stores multiple values in single variable with continues memory locations.
+
+ Syntax: datatype arr_var[size]
+
+ 
