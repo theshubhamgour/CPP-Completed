@@ -1,0 +1,18 @@
+What is structure?
+structure is a user defined datatype which are used to
+store, dis-similar types of values.
+
+Note: The size of sturcture is equal to the sum of all
+structure member size.
+
+syntax:
+ struct sturcture{
+     //member;
+ };
+
+union:
+ THe size of union is equal ot its biggest member size
+ syntax: union union name
+ {
+     //member;
+ };

@@ -1,0 +1,16 @@
+*  What is Storage class?
+                    Storage class defines the scope and lifetime of the variable and function
+
+Typs: 
+         * auto
+         * static
+         * register
+         * extern
+
+*  What is function?
+            function is a block of code that runs only when it is called
+
+* types: 
+         * pre defined function
+         * user defined function
+
