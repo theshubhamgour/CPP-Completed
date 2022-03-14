@@ -1,0 +1,8 @@
+what is string? 
+a string is a one-dimentional aray of characters terminated by null characters.
+
+string pre-defined functions: 
+strlen()
+strcpy()
+strrev()
+strcat() etc
